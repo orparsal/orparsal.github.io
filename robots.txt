@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://orparsal.github.io/sitemap
+Sitemap: https://orparsal.github.io/app/sitemap
+Sitemap: https://orparsal.github.io/assets/sitemap
+Sitemap: https://orparsal.github.io/css/sitemap
+Sitemap: https://orparsal.github.io/includes/sitemap
+Sitemap: https://orparsal.github.io/item/sitemap
+Sitemap: https://orparsal.github.io/src/sitemap
